@@ -1,0 +1,4 @@
+python-filelock source: no-debian-changes
+python-filelock source: source-contains-prebuilt-windows-binary
+python-filelock source: source-is-missing
+python-filelock source: source-package-encodes-python-version
