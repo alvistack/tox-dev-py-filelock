@@ -1,0 +1,5 @@
+python-filelock (100:3.8.0-1) UNRELEASED; urgency=medium
+
+  * https://github.com/tox-dev/py-filelock/releases/tag/3.8.0
+
+ -- Wong Hoi Sing Edison <hswong3i@gmail.com>  Thu, 11 Aug 2022 10:03:18 +0800
