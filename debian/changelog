@@ -1,0 +1,5 @@
+python-filelock (100:3.10.4-1) UNRELEASED; urgency=medium
+
+  * https://github.com/tox-dev/py-filelock/releases/tag/3.10.4
+
+ -- Wong Hoi Sing Edison <hswong3i@pantarei-design.com>  Sat, 25 Mar 2023 02:03:36 +0800
