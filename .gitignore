@@ -16,3 +16,4 @@ venv*
 .python-version
 test.lock
 test.softlock
+.pybuild/
