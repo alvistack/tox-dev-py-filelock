@@ -1,0 +1,4 @@
+python3-filelock: copyright-without-copyright-notice
+python3-filelock: initial-upload-closes-no-bugs
+python3-filelock: no-manual-page
+python3-filelock: zero-byte-file-in-doc-directory
